@@ -46,6 +46,7 @@ public class MainClass {
                     break;
                 default:
                     System.out.println("Out of range");
+                    System.out.println("Out of range");
             }
         }
     }
